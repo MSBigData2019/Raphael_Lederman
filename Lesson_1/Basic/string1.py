@@ -38,6 +38,7 @@ def donuts(count):
 def both_ends(s):
     if len(s) < 2:
         return ""
+    else:
         first_2 = s[:2]
         last_2 = s[-2]
         return fist_2 + last_2
