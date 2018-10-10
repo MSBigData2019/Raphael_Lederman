@@ -2,13 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="899e41a3-2203-4a41-8c37-4318df4f9b76" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../Lesson_1/alice.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lesson_1/list1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lesson_1/list2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lesson_1/mimic.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lesson_1/string1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lesson_1/string2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lesson_1/wordcount.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson_1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson_1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Lesson_2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Lesson_2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,6 +18,7 @@
     <SUITE FILE_PATH="coverage/Lesson_2$crawling.coverage" NAME="crawling Coverage Results" MODIFIED="1538227103515" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Lesson_2$Unittests_for_Fender_tests_tests_1.coverage" NAME="Unittests for Fender.tests.tests_1 Coverage Results" MODIFIED="1538305662122" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Lesson_2$Unittests_in_Fender_py.coverage" NAME="Unittests in Fender.py Coverage Results" MODIFIED="1538305882814" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Lesson_2$exo_dom_lesson_2.coverage" NAME="exo_dom_lesson_2 Coverage Results" MODIFIED="1539189745431" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Lesson_2$Lesson_2.coverage" NAME="Lesson_2 Coverage Results" MODIFIED="1538306317980" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Lesson_2$Fender.coverage" NAME="Fender Coverage Results" MODIFIED="1538316314059" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Lesson_2$Unittests_for_Fender_tests.coverage" NAME="Unittests for Fender.tests Coverage Results" MODIFIED="1538305730673" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -29,35 +28,36 @@
     <session id="-2080414597">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="5" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.23" value="1" />
+          <entry key="project.open.time.49" value="1" />
           <entry key="project.open.time.50" value="1" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="csv" value="1" />
-          <entry key="py" value="6" />
+          <entry key="py" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="6" />
+          <entry key="Python" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Python Console" value="316" />
-          <entry key="py" value="7094" />
+          <entry key="py" value="9199" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="7410" />
+          <entry key="Python" value="9515" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts" />
@@ -69,8 +69,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Lesson_2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="431">
-              <caret line="89" column="9" lean-forward="true" selection-start-line="89" selection-start-column="9" selection-end-line="89" selection-end-column="9" />
+            <state relative-caret-position="207">
+              <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
               <folding>
                 <element signature="e#1230#1245#0" expanded="true" />
               </folding>
@@ -79,15 +79,27 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/exo_dom_lesson_2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="498">
+              <caret line="79" lean-forward="true" selection-start-line="79" selection-end-line="79" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+                <marker date="1539189787000" expanded="true" signature="2615:2616" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Fender.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+            <state relative-caret-position="321">
+              <caret line="35" column="34" lean-forward="true" selection-start-line="35" selection-start-column="34" selection-end-line="35" selection-end-column="34" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
                 <marker date="1538316482000" expanded="true" signature="1860:1968" ph="..." />
                 <marker date="1538316482000" expanded="true" signature="2001:2008" ph="..." />
-                <marker date="1538316482000" expanded="true" signature="2001:2136" ph="..." />
               </folding>
             </state>
           </provider>
@@ -96,7 +108,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CC1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="387">
+            <state relative-caret-position="720">
               <caret line="48" column="11" selection-start-line="48" selection-start-column="11" selection-end-line="48" selection-end-column="11" />
             </state>
           </provider>
@@ -126,6 +138,8 @@
         <option value="$PROJECT_DIR$/CC1.py" />
         <option value="$PROJECT_DIR$/Lesson_2.py" />
         <option value="$PROJECT_DIR$/Fender.py" />
+        <option value="$PROJECT_DIR$/venv/exo_dom_lesson_2.py" />
+        <option value="$PROJECT_DIR$/exo_dom_lesson_2.py" />
       </list>
     </option>
   </component>
@@ -136,8 +150,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="13" />
-    <option name="y" value="61" />
+    <option name="x" value="7" />
+    <option name="y" value="36" />
     <option name="width" value="1273" />
     <option name="height" value="760" />
   </component>
@@ -180,7 +194,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Fender">
+  <component name="RunManager" selected="Python.exo_dom_lesson_2">
     <configuration name="Fender" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Lesson_2" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -225,19 +239,26 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests for Fender.tests" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="exo_dom_lesson_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Lesson_2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;Fender.tests&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exo_dom_lesson_2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
     <configuration name="Unittests in Fender.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
@@ -272,18 +293,18 @@
     </configuration>
     <list>
       <item itemvalue="Python tests.Unittests in Lesson_2.py" />
-      <item itemvalue="Python tests.Unittests for Fender.tests" />
       <item itemvalue="Python tests.Unittests in Fender.py" />
       <item itemvalue="Python.Fender" />
       <item itemvalue="Python.Lesson_2" />
+      <item itemvalue="Python.exo_dom_lesson_2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.exo_dom_lesson_2" />
         <item itemvalue="Python.Fender" />
         <item itemvalue="Python.Lesson_2" />
         <item itemvalue="Python tests.Unittests in Lesson_2.py" />
         <item itemvalue="Python tests.Unittests in Fender.py" />
-        <item itemvalue="Python tests.Unittests for Fender.tests" />
       </list>
     </recent_temporary>
   </component>
@@ -342,15 +363,15 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="7" y="23" width="1273" height="760" extended-state="0" />
+    <frame x="7" y="36" width="1273" height="760" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26157597" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2656377" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3008982" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3008982" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3997006" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -387,13 +408,6 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/crawling.py" />
-    <entry file="file://$PROJECT_DIR$/CC1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="387">
-          <caret line="48" column="11" selection-start-line="48" selection-start-column="11" selection-end-line="48" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -401,22 +415,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Fender 2.py">
+    <entry file="file://$PROJECT_DIR$/Fender 2.py" />
+    <entry file="file://$PROJECT_DIR$/guitars-info.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CC1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-627">
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="720">
+          <caret line="48" column="11" selection-start-line="48" selection-start-column="11" selection-end-line="48" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/guitars-info.csv">
+    <entry file="file://$PROJECT_DIR$/venv/exo_dom_lesson_2.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Lesson_2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="431">
-          <caret line="89" column="9" lean-forward="true" selection-start-line="89" selection-start-column="9" selection-end-line="89" selection-end-column="9" />
+        <state relative-caret-position="207">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
           <folding>
             <element signature="e#1230#1245#0" expanded="true" />
           </folding>
@@ -425,13 +441,23 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Fender.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        <state relative-caret-position="321">
+          <caret line="35" column="34" lean-forward="true" selection-start-line="35" selection-start-column="34" selection-end-line="35" selection-end-column="34" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
             <marker date="1538316482000" expanded="true" signature="1860:1968" ph="..." />
             <marker date="1538316482000" expanded="true" signature="2001:2008" ph="..." />
-            <marker date="1538316482000" expanded="true" signature="2001:2136" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exo_dom_lesson_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="498">
+          <caret line="79" lean-forward="true" selection-start-line="79" selection-end-line="79" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+            <marker date="1539189787000" expanded="true" signature="2615:2616" ph="..." />
           </folding>
         </state>
       </provider>

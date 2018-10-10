@@ -66,21 +66,21 @@ def get_popularity_for_people(people):
       results_people.append(get_share_count_for_page(website_prefix + url))
   return sum(results_people)
 
-
-class Lesson1Tests(unittest.TestCase):
-    def testShareCount(self):
-        self.assertEqual(get_share_count_for_page("http://www.purepeople.com/article/brigitte-macron-decroche-une-jolie-couv-a-l-etranger_a306389/1") , 165)
-
-    def testConvertStringInt(self):
-        self.assertEqual(_convert_string_to_int("\n                            86\n                    ") , 86)
-        self.assertEqual(_convert_string_to_int("5,84K") , 5840)
-        self.assertEqual(_convert_string_to_int("\n                            1,6K\n                   ") , 1600)
+#
+# class Lesson1Tests(unittest.TestCase):
+#     def testShareCount(self):
+#         self.assertEqual(get_share_count_for_page("http://www.purepeople.com/article/brigitte-macron-decroche-une-jolie-couv-a-l-etranger_a306389/1") , 165)
+#
+#     def testConvertStringInt(self):
+#         self.assertEqual(_convert_string_to_int("\n                            86\n                    ") , 86)
+#         self.assertEqual(_convert_string_to_int("5,84K") , 5840)
+#         self.assertEqual(_convert_string_to_int("\n                            1,6K\n                   ") , 1600)
 
 macron = get_popularity_for_people('macron')
 melenchon = get_popularity_for_people('melenchon')
 
 def main():
-    unittest.main()
+    #unittest.main()
     macron = get_popularity_for_people('macron')
     melenchon = get_popularity_for_people('melenchon')
     print("Score de Macron : %i - Score de melenchon : %i" %(macron,melenchon))
