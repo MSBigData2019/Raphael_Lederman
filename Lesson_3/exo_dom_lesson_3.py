@@ -29,7 +29,7 @@ def get_stars_in_repo(contributor):
     git_api = 'https://api.github.com/users/'
     userID = "RaphaelLederman"
     token = "124943d52b479e867cba059efb356278535e3142"
-    res = requests.get(url = git_api + contributor + "/repos?per_page=1000", auth = (userID, token))
+    res = requests.get(url = git_api + contributor + "/repos?per_page=100", auth = (userID, token))
     response_object = json.loads(res.text)
     result = 0
     for el in response_object:
